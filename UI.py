@@ -13,7 +13,7 @@ import matplotlib
 
 matplotlib.use("Agg")
 import seaborn as sns
-st.set_option('deprecation.showPyplotGlobalUse', False)
+#st.set_option('deprecation.showPyplotGlobalUse', False)
 #st.dataframe(df.head())
 
 class UiRender():
